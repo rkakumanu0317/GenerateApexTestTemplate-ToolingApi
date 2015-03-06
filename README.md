@@ -23,5 +23,5 @@ https://c.<instance_name>.visual.force.com (if calling form visualforce page)
 
 <b>Feedback</b>
 
-It would be great if you could provide a feedback on this. Its just a starting point so looking forward to hear from you and improve the functionality.
+It would be great if you could provide a feedback on this. Its just a starting point so looking forward to hearing from you and improve the functionality.
 
